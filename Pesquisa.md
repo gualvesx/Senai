@@ -64,6 +64,7 @@ Limitações de escalabilidade:
 O MySQL é um SGBDR poderoso e versátil que oferece diversos benefícios para diversos tipos de aplicações. Sua facilidade de uso, confiabilidade, escalabilidade e custo-benefício o tornam uma escolha popular para desenvolvedores e empresas de todos os portes. No entanto, é importante estar ciente das limitações de segurança e desempenho do MySQL antes de o utilizar em um projeto.
 
 # Node.js
+![a](https://github.com/user-attachments/assets/3092315d-add3-451d-a6e1-25d9214eb120)
 
 O Node.js é um ambiente de execução JavaScript de código aberto e multiplataforma que permite a criação de aplicativos back-end rápidos e escaláveis. Ele é baseado no mecanismo V8 do Chrome, o que significa que os aplicativos Node.js podem ser executados com alta performance.
 
