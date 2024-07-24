@@ -25,8 +25,10 @@ Este trabalho irá analisar as características, funcionalidades e aplicações 
 
 #### O escolhidio para aprofundamento foi... 
 ## **MySQL**
-![alt text](SharedScreenshot.jpg)
+![SharedScreenshot](https://github.com/user-attachments/assets/f29c6e28-9672-42a9-ae6d-528030aa945d)
+
 O MySQL é um sistema de gerenciamento de banco de dados relacional (SGBDR) de código aberto amplamente utilizado para armazenar, organizar e recuperar dados. Ele é conhecido por sua facilidade de uso, confiabilidade e escalabilidade, tornando-o uma escolha popular para diversos tipos de aplicações, desde sites simples até grandes empresas.
+
 
 ### **Características principais:**
 
