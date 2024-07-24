@@ -23,7 +23,7 @@ Este arquivo de pesquisa irá explorar as seguintes tecnologias:
 - **Postman**: Uma plataforma de desenvolvimento de API abrangente, permitindo testar, documentar e colaborar em APIs.
 Este trabalho irá analisar as características, funcionalidades e aplicações de cada tecnologia
 
-#### O escolhidio para aprofundamento foi... 
+#### O escolhidio para o aprofundamento foi... 
 ## **MySQL**
 ![SharedScreenshot](https://github.com/user-attachments/assets/f29c6e28-9672-42a9-ae6d-528030aa945d)
 
