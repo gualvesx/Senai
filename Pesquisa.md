@@ -23,12 +23,10 @@ Este arquivo de pesquisa irá explorar as seguintes tecnologias:
 - **Postman**: Uma plataforma de desenvolvimento de API abrangente, permitindo testar, documentar e colaborar em APIs.
 Este trabalho irá analisar as características, funcionalidades e aplicações de cada tecnologia
 
-#### O escolhidio para o aprofundamento foi... 
+#### O escolhidio para aprofundamento foi... 
 ## **MySQL**
-![SharedScreenshot](https://github.com/user-attachments/assets/f29c6e28-9672-42a9-ae6d-528030aa945d)
-
+![alt text](SharedScreenshot.jpg)
 O MySQL é um sistema de gerenciamento de banco de dados relacional (SGBDR) de código aberto amplamente utilizado para armazenar, organizar e recuperar dados. Ele é conhecido por sua facilidade de uso, confiabilidade e escalabilidade, tornando-o uma escolha popular para diversos tipos de aplicações, desde sites simples até grandes empresas.
-
 
 ### **Características principais:**
 
